@@ -2,11 +2,11 @@
 
 ### About me
 
-I have 26 years old and actually i'm on 4o period on Software Engineering, with prevision to end in 2026.
+I am 26 years old, and I'm in the 4th period of Software Engineering, with prevision to end in 2026.
 
-I have experience in Front-end development and also Back-end, with especial focus on Front-end. I'm skilled in many technologies, including JavaScript, Vue, React and Angular. In addition, my essentials skills include proactivity, high communication and a solid commitment with team work.
+I have experience with Fullstack development, with a special focus on Front-end. I'm skilled in many technologies, including JavaScript, Vue, React, and Angular. In addition, my essential skills include proactivity, high communication, and a solid commitment to teamwork.
 
-My career goal is be an agent of transformation, actively involving me on product creation and solutions that impact positively on people's life. I believe deeply on the power of the tecnology to change the world and i'm compromised in play a role in this process.
+My career goal is to be an agent of transformation, actively involving myself in product creation and solutions that impact positively on people's lives. I believe deeply in the power of technology to change the world and I'm compromised to play a role in this process.
 
 ## Skills
 
