@@ -1,14 +1,14 @@
-# Olá! Sou Yuri Maciel.
+# Hi! I'm Yuri Maciel.
 
-### Sobre mim
+### About me
 
-Tenho 26 anos e atualmente estou cursando o quarto semestre da minha graduação em Engenharia de Software, com previsão de formatura em 2026.
+I have 26 years old and actually i'm on 4o period on Software Engineering, with prevision to end in 2026.
 
-Tenho experiência tanto no desenvolvimento Front-end quanto no Back-end, com uma ênfase especial no Front-end. Sou proficiente em diversas tecnologias, incluindo JavaScript, Vue, React e Angular. Além disso, minhas habilidades essenciais abrangem proatividade, comunicação eficaz e um comprometimento sólido com o trabalho em equipe.
+I have experience in Front-end development and also Back-end, with especial focus on Front-end. I'm skilled in many technologies, including JavaScript, Vue, React and Angular. In addition, my essentials skills include proactivity, high communication and a solid commitment with team work.
 
-Meu objetivo de carreira é ser um agente de transformação, envolvendo-me ativamente na criação de produtos e soluções que impactem positivamente a vida das pessoas. Acredito profundamente no poder da tecnologia para mudar o mundo e estou comprometido em desempenhar um papel significativo nesse processo.
+My career goal is be an agent of transformation, actively involving me on product creation and solutions that impact positively on people's life. I believe deeply on the power of the tecnology to change the world and i'm compromised in play a role in this process.
 
-## Competências 
+## Skills
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-blue)](https://nodejs.org/)
