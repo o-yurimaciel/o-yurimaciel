@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá! Sou Yuri Maciel.
 
-<!--
-**o-yurimaciel/o-yurimaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Tenho 26 anos e atualmente estou cursando o quarto semestre da minha graduação em Engenharia de Software, com previsão de formatura em 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência tanto no desenvolvimento Front-end quanto no Back-end, com uma ênfase especial no Front-end. Sou proficiente em diversas tecnologias, incluindo JavaScript, Vue, React e Angular. Além disso, minhas habilidades essenciais abrangem proatividade, comunicação eficaz e um comprometimento sólido com o trabalho em equipe.
+
+Meu objetivo de carreira é ser um agente de transformação, envolvendo-me ativamente na criação de produtos e soluções que impactem positivamente a vida das pessoas. Acredito profundamente no poder da tecnologia para mudar o mundo e estou comprometido em desempenhar um papel significativo nesse processo.
+
+## Competências 
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-blue)](https://nodejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
+
+## Stats
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=o-yurimaciel&show_icons=true&theme=dracula)
+
+
+
