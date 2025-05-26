@@ -2,7 +2,7 @@
 
 ### About me
 
-I am 26 years old, and I'm in the 4th period of Software Engineering, with prevision to end in 2026.
+I am 27 years old, and I'm in the 4th period of Software Engineering, with prevision to end in 2026.
 
 I have experience with Fullstack development, with a special focus on Front-end. I'm skilled in many technologies, including JavaScript, Vue, React, and Angular. In addition, my essential skills include proactivity, high communication, and a solid commitment to teamwork.
 
